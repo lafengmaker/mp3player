@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mp3Player</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_updatelist">更新列表</string>
+    <string name="action_about">关于</string>
+    <string name="action_quit">退出</string>
+    <string name="server_ip_port">http://192.168.1.102:8080/</string>
+    <string name="server_music_dir">mp3/music</string>
+    <string name="mp3_download_path">mp3player/download/mp3</string>
+    <string name="local_music">本地音乐</string>
+    <string name="remote_music">在线音乐</string>
+
+</resources>
